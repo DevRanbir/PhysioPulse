@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/PhysioPulse/static/css/main.80805d32.css",
+    "main.js": "/PhysioPulse/static/js/main.529f1e3b.js",
+    "index.html": "/PhysioPulse/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.80805d32.css",
+    "static/js/main.529f1e3b.js"
+  ]
+}
